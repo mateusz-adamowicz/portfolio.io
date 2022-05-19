@@ -386,4 +386,14 @@ h3.hello span
     margin-left: 15%;
 }
 
+.portfolio .portfolio-heading
+{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
 
+.portfolio .portfolio-heading h2
+{
+    color: var(--text-black-900);
+    font-weight: 500;
+}
